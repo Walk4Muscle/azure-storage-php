@@ -1,0 +1,1 @@
+enable php_finfo.dll extension
